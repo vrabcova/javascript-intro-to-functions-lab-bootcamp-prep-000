@@ -14,7 +14,7 @@ function sayHiToGrandma() {
   console.log("hello") return("I can\'t hear you!")
 }
 function sayHiToGrandma() {
-  console.log("HELLO") return("YES INDEED!")
+  if("HELLO") return("YES INDEED!")
 }
 function sayHiToGrandma() {
   if("I love you, Grandma.") return("I love you, too.")
