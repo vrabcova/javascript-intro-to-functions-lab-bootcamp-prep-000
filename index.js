@@ -11,7 +11,7 @@ function logWhisper(string) {
   console.log ("hello")
 }
 function sayHiToGrandma() {
-  if("hello") return("I can\'t hear you!")
-  if("HELLO") return("YES INDEED!")
+  if("hello") logWhisper() return("I can\'t hear you!")
+  if("HELLO") logShout() return("YES INDEED!")
   if("I love you, Grandma.") return("I love you, too.")
 }
